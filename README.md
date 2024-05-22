@@ -13,7 +13,7 @@ it can be used/implemented in any way you please.
 * moviepy
 
 ## Watch the demo/tutorial video
-
+[![Demo/Tutorial](https://img.youtube.com/vi/ls3YQ3dvgx4/0.jpg)](https://www.youtube.com/watch?v=ls3YQ3dvgx4)
 
 ## Link to google drive with exe
 [here](https://drive.google.com/drive/folders/1ejl6dhM4zP0nlVogEg3x48HDzfMTPg-K?usp=sharing)
